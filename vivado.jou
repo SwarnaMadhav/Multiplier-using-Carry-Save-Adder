@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Nov 23 12:44:28 2018
+# Process ID: 14368
+# Current directory: C:/Users/Swarna/Desktop/Vivado/carrysaveadder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14976 C:\Users\Swarna\Desktop\Vivado\carrysaveadder\carrysaveadder.xpr
+# Log file: C:/Users/Swarna/Desktop/Vivado/carrysaveadder/vivado.log
+# Journal file: C:/Users/Swarna/Desktop/Vivado/carrysaveadder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Swarna/Desktop/Vivado/carrysaveadder/carrysaveadder.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source simulate.tcl
+close_sim
